@@ -2,3 +2,4 @@ GIT is a visition control system
 git status
 git reset --hard HEAD^
 git diff file
+GitHub desktop
